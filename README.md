@@ -1,11 +1,9 @@
-Plasma Forks
+Lukas Games
 ============
 
 This is a small 3d sci-fi first-person shooter for the web.  
-See more info at the homepage - http://tapio.github.com/plasma-forks/
 
 **You will need poweful, dedicated GPU, blazingly fast CPU and Chrome to fully enjoy it.**  
-Check out [Known Issues](https://github.com/tapio/plasma-forks/wiki/Known-Issues) and [Performance Tips](https://github.com/tapio/plasma-forks/wiki/Performance-Tips) if you want to go against that.
 
 
 Acknowledgements
